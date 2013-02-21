@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1331315982 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1\funcm-aux.c
+	"multimeV.h"
+
+1331381563 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1\multimev.h
+	<stdarg.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1331575774 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1\sortm.c
+	"multimeV.h"
+
+1331507541 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1\testm-int.c
+	"multimeV.h"
+
+1330200168 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1\funcm-aux.c
+	"multimeV.h"
+
+1331026418 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1\funcm-1.c
+	"multimeV.h"
+
+1331314684 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1\sortm.c
+	"multimeV.h"
+
+1331315987 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1\funcm-1.c
+	"multimeV.h"
+
+1331315982 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1 - copy\funcm-aux.c
+	"multimeV.h"
+
+1331581571 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1 - copy\multimev.h
+	<stdarg.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1331581918 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1 - copy\testm-int.c
+	"multimeV.h"
+
+1331315987 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1 - copy\funcm-1.c
+	"multimeV.h"
+
+1331595692 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 1 - copy\sortm.c
+	"multimeV.h"
+

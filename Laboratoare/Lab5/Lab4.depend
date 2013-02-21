@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1331396584 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab4\funclista.c
+	<conio.h>
+	<ctype.h>
+	"tlista.h"
+
+1331396561 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab4\tlista.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1331398703 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab4\testlist.c
+	<conio.h>
+	<ctype.h>
+	"tlista.h"
+
+1331396584 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab 5\funclista.c
+	<conio.h>
+	<ctype.h>
+	"tlista.h"
+
+1332176209 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab 5\tlista.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1332151707 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab 5\funclord.c
+	"tlista.h"
+
+1332152426 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab 5\testlist.c
+	<conio.h>
+	<ctype.h>
+	"tlista.h"
+
+1332236583 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab 5\liste.c
+	<conio.h>
+	<ctype.h>
+	"tlista.h"
+
+1332155307 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab5\funclord.c
+	"tlista.h"
+
+1337616775 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab5\tlista.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1331400184 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab5\funclista.c
+	<conio.h>
+	<ctype.h>
+	"tlista.h"
+
+1333280041 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab5\liste.c
+	<conio.h>
+	<ctype.h>
+	"tlista.h"
+

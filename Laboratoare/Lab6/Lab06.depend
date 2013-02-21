@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1333279475 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab6\test-ldi.c
+	"tl2.h"
+
+1332832815 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab6\tl2.h
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<stdarg.h>
+	<string.h>
+
+1332790260 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab6\opl2.c
+	"TL2.h"
+

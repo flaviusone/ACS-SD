@@ -1,0 +1,15 @@
+Se creeaza un modul sursa cu definitii si secvente de test pt 2 functii :
+
+int F1(TLista L)	 - afiseaza perechile de elemente care au acelasi semn din 2 in d
+			 
+_2.___7__17
+ 4.__-5__-3
+
+			-intoarce nr de perechi afisate
+
+ALista F2(ALista a)  - intoarce null sau adresa legaturii la celula care contine cea mai mica valoare para
+			- secventa de test :
+			-afisare lista
+			-apel F2
+			-eliminare element rezultat daca exista
+			-afisare

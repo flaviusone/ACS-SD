@@ -1,0 +1,7 @@
+int Grup(TL2 s,TF1 f,int Gasit)
+-lista vida
+-rezultat nr de elem mutate
+int MutaSecv
+-prima sublista de n elemente pt care f intoarce val gasit
+-se muta la sf listei
+-rezultat nr de elemente ce precvedau sublista >= daca gasesc sublista sau -1 daca nu gasesc sublista

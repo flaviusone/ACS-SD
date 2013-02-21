@@ -1,0 +1,6 @@
+void F1Aux(TArb a, int r , int *nrt, int *nrf, int *nrtf)
+
+F2 intoarce +/-1 + daca toate frunzele sunt pe acc nivel si -1 caz contrar
+
+void F2Aux(TArb a, int niv,,int *rez)  rez intoarce nivelul sau -1
+

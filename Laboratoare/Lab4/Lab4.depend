@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1331396584 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab4\funclista.c
+	<conio.h>
+	<ctype.h>
+	"tlista.h"
+
+1331396561 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab4\tlista.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1331398703 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab4\testlist.c
+	<conio.h>
+	<ctype.h>
+	"tlista.h"
+

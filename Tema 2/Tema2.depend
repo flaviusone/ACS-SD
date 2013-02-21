@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1335995950 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 2\main.c
+	"Tema2.h"
+
+1335894033 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 2\tema2.h
+	"T-q-LD.h"
+
+1335477044 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 2\citirefis.c
+	"Tema2.h"
+
+1336040498 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 2\citirefis.c
+	"Tema2.h"
+
+1336319610 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 2\corectare.c
+	"Tema2.h"
+
+1336319025 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 2\constrrez.c
+	"Tema2.h"
+
+1335893920 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 2\auxarb.c
+	"Tema2.h"
+
+1335894214 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 2\coada.c
+	"Tema2.h"
+
+1335894191 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 2\t-q-ld.h
+	"tcoada.h"
+
+1335894202 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 2\tcoada.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	<conio.h>
+
+1335893845 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\tema 2\auxarb.c
+
+1335894214 source:e:\facultate\anul i\semestrul 2\structuri de date\tema 2\coada.c
+	"Tema2.h"
+
+1335894033 e:\facultate\anul i\semestrul 2\structuri de date\tema 2\tema2.h
+	"T-q-LD.h"
+
+1335894191 e:\facultate\anul i\semestrul 2\structuri de date\tema 2\t-q-ld.h
+	"tcoada.h"
+
+1335894202 e:\facultate\anul i\semestrul 2\structuri de date\tema 2\tcoada.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	<conio.h>
+
+1336319025 source:e:\facultate\anul i\semestrul 2\structuri de date\tema 2\constrrez.c
+	"Tema2.h"
+
+1336319610 source:e:\facultate\anul i\semestrul 2\structuri de date\tema 2\corectare.c
+	"Tema2.h"
+
+1335893920 source:e:\facultate\anul i\semestrul 2\structuri de date\tema 2\auxarb.c
+	"Tema2.h"
+
+1335995950 source:e:\facultate\anul i\semestrul 2\structuri de date\tema 2\main.c
+	"Tema2.h"
+
+1336040498 source:e:\facultate\anul i\semestrul 2\structuri de date\tema 2\citirefis.c
+	"Tema2.h"
+

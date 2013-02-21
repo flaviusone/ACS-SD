@@ -1,0 +1,28 @@
+sa identifice sublistele ordonate strict crescator
+CONDITIE AFISAFRE - URMATORU SA NU MAI RESPEDCTE REL DE ORDINE FIE sa nu existe urmatorul
+	rel 	corecta f -> < 0
+		incorecta -> >=0
+
+algoritm
+
+{initializari i, p,ns
+	cat timp (exista pereche celule) p!=NULL && p->urm!=NULL
+ 	{
+	daca ordinea corecta atunci 
+		{ memoram inceput (ii = i)
+		  repeta avans in lista(i si p)
+		  cat timp(exista celula urm si relatie corecta)
+		afiseaza indici inceput si sfarsit
+		CRESTE NS;
+		}
+	avans in lista(i si p)
+	}
+
+//////////////////////////////////////////////
+
+CONSTRS o noua lista in care se muta elem mai mici ca r
+
+lungimea listei rezultat
+////////////////////////////////////
+
+funct 3  - in r se copiaza elementele 

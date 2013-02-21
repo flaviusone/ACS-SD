@@ -1,0 +1,11 @@
+int A1(Tarb a) 	- parcurge in ordinea SRD afiseaza info pare din nodurile cu 1 subarbore  (info[nivel])
+		- intoarce nr de info afisate
+n1=A1(a->st)
+if(Radacina .... n1++
+n2=A1(a->dr) // n1+=A1(a->dr)
+rez=n1+n2
+
+A1(TArb a , int niv)
+
+A2(Tarb a,int niv)  - det nr de val pozitive si pare de pe niv impare
+int A3(Tarb a,Tarb b) - specifica daca cei 2 arbori au acc structura sau au structuri differite

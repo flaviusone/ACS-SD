@@ -1,0 +1,13 @@
+Q-LC-2.c
+
+functia int Nr1(void *a, TF1 f) nr de elemente din coada pt care functia f intoarce 1
+
+Q-LD-2.c
+
+int MutaQ(void *ad, void *as)
+
+muta un element din coada sursa in coada destinatie
+
+St-L-2.c  
+
+int Suprapune(void *ad,void *as)

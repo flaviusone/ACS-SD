@@ -1,0 +1,24 @@
+10
+  0  	21.81  	tcyorjmf
+ -5  	94.02  	dbhvpy
+-10  	74.20  	pgt
+  8  	97.95  	woomw
+  7  	64.57  	fbeozszhl
+  4  	20.60  	que
+ -3	6.66  	lqytuxcds
+  9   	4.04  	sygadic
+ -9  	77.27  	xbsrwwm
+-10   	9.39  	bes
+
+
+10
+  0  	0  	tcyorjmf
+ 0  	0  	dbhvpy
+0  	0  	pgt
+  0  	0  	woomw
+  0  	0  	fbeozszhl
+  0  	0  	que
+ 0	0  	lqytuxcds
+ 0  	0  	sygadic
+0  	0 	xbsrwwm
+0   	0  	bes

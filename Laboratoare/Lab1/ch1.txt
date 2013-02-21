@@ -1,0 +1,7 @@
+3
+Desert preferat;3
+prajitura;fructe;inghetata;
+Sportul preferat;9
+gimnastica;fotbal;atletism;rugbi;inot;tenis;handbal;baschet;altul;
+Gen muzical preferat;7
+clasic;folclor;rock;jazz;disco;pop;religioasa;

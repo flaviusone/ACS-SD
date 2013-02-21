@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1329324151 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab1\fsondaj2.c
+	"sondaj.h"
+
+1329767450 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab1\sondaj.h
+	<stdarg.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+
+1329814496 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab1\fsondaj1.c
+	"sondaj.h"
+
+1329822950 source:c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab1\sondaj.c
+	"sondaj.h"
+
+1329241480 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab1\fsondaj1.c
+	"sondaj.h"
+
+1329251059 c:\users\ressurected\desktop\facultate\semestrul 2\structuri de date\laboratoare\lab1\fsondaj2.c
+	"sondaj.h"
+
